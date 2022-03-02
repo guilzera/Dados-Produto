@@ -1,0 +1,15 @@
+C:\projetos\DadosProduto\DadosProduto\bin\Debug\net6.0\DadosProduto.exe
+C:\projetos\DadosProduto\DadosProduto\bin\Debug\net6.0\DadosProduto.deps.json
+C:\projetos\DadosProduto\DadosProduto\bin\Debug\net6.0\DadosProduto.runtimeconfig.json
+C:\projetos\DadosProduto\DadosProduto\bin\Debug\net6.0\DadosProduto.dll
+C:\projetos\DadosProduto\DadosProduto\bin\Debug\net6.0\DadosProduto.pdb
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.csproj.AssemblyReference.cache
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.AssemblyInfoInputs.cache
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.AssemblyInfo.cs
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.csproj.CoreCompileInputs.cache
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.dll
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\refint\DadosProduto.dll
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.pdb
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\DadosProduto.genruntimeconfig.cache
+C:\projetos\DadosProduto\DadosProduto\obj\Debug\net6.0\ref\DadosProduto.dll
